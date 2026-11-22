@@ -1,1 +1,1 @@
-[https://github.com/TU_USUARIO/modulo-inventario-web.git](https://github.com/TU_USUARIO/modulo-inventario-web.git)
+https://github.com/patinoportillamaicol-hash/modulo-inventario-web.git
